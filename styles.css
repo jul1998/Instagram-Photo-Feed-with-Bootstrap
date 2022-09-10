@@ -23,7 +23,7 @@ body{
 
 img{
     width: 400px;
-    padding-right: 2rem;
+    padding-right: 3rem;
     margin-bottom: 1rem;
 }
 
@@ -31,4 +31,29 @@ img{
     margin-top: 80px;
     display: flex;
     justify-content: center;;
+    margin-bottom: 80px;
+
+}
+
+.posts-line{
+    display: block; width: 246px; height: 203px;
+    margin-top: 20px;
+}   
+
+#img1{
+    display: block; width: 246px; height: 203px;
+    margin-top: 1rem;
+    margin-bottom:2rem;
+}
+#img2{
+    display: block; width: 246px; height: 203px;
+    margin-top: 1rem;
+    margin-bottom:3rem;
+}
+
+.nav-tabs .nav-link {
+    background: 0 0;
+    border: 1px solid transparent;
+
+    display: block;
 }
